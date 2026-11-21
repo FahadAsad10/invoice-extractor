@@ -2,7 +2,7 @@
 
 **Turn a pile of supplier invoices and receipts into a clean, checked spreadsheet.** Drop in PDFs or phone photos, Claude reads the vendor, dates, VAT number, line items and totals, the app re-checks every number, flags duplicates and anything that doesn't add up, and you download an Excel workbook or CSV ready for your accounting software.
 
-**[▶ Live demo](https://fahadasad10.github.io/invoice-extractor/)** (runs in your browser with 6 sample documents, no API key needed; first load ~30 s)
+**[▶ Live demo](https://fahadasad10.github.io/invoice-extractor/)** (runs in your browser with 6 sample documents, no API key needed; first load takes about a minute)
 
 ![Invoice Extractor review screen](docs/overview.png)
 
